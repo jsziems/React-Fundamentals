@@ -9,7 +9,7 @@ import {
 const Header = () => {
     return (
         <header>
-            <Navbar className='Header'>
+            <Navbar className='header'>
                 <NavbarBrand href='/'>React Library</NavbarBrand>
                 <Nav className='ml-auto' navbar>
                     <NavItem>
